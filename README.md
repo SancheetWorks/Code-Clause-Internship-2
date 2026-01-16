@@ -27,11 +27,7 @@ This project helps users explore GitHub repositories efficiently while learning 
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5** – Structure  
-- **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Logic and API integration  
-- **GitHub REST API** – Data source  
-
----
-
-## 📁 Project Structure
+- **HTML5** : Structure  
+- **CSS3** : Styling and layout  
+- **JavaScript (ES6)** : Logic and API integration  
+- **GitHub REST API** : Data source  
